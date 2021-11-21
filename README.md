@@ -4,3 +4,6 @@ When the user asks for a randomply generated password, it is immediately saved t
 
 The cursor automatically goes to the first text box so user can start typing right away. 
 Email field is also prepopulated with a default email.
+
+Adding a search functionality that allows user to search for a website and reveal saved password for that website.
+Information is no longer saved as plain text, but as JSON.
